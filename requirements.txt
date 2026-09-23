@@ -1,0 +1,17 @@
+numpy==2.4.4
+pandas==2.3.3
+matplotlib==3.10.9
+scikit-learn==1.8.0
+scipy==1.16.3
+networkx==3.6.1
+torch==2.11.0
+nbformat==5.10.4
+nbclient==0.10.4
+joblib==1.5.3
+xgboost==3.2.0
+lightgbm==4.7.0
+nbconvert==7.17.1
+ipykernel==7.2.0
+psutil==7.2.2
+jupyterlab==4.5.6
+matplotlib-inline==0.2.1

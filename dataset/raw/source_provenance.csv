@@ -1,0 +1,3 @@
+dataset,url,doi,voltage_kv,role
+MATPOWER case33bw,https://github.com/MATPOWER/matpower/blob/master/data/case33bw.m,10.1109/61.25627,12.66,primary reconfiguration benchmark
+MATPOWER case69,https://github.com/MATPOWER/matpower/blob/master/data/case69.m,10.1109/61.19265,12.66,external network-size validation

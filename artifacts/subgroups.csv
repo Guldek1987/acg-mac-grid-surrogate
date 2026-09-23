@@ -1,0 +1,14 @@
+model,split,factor,group,n,vmin_mae,loss_mae_kw
+ACG-MAC Ensemble,test converged,topology_id,5,55,0.012703565033999357,94.77971135919745
+ACG-MAC Ensemble,test converged,topology_id,16,69,0.0010017199792723725,4.2496262149534365
+ACG-MAC Ensemble,test converged,topology_id,17,78,0.00136071978471218,2.626387840662247
+ACG-MAC Ensemble,test converged,topology_id,19,76,0.0009462723606511167,2.5697088743511
+ACG-MAC Ensemble,test converged,topology_id,22,62,0.0007453801170472175,2.1421618000153573
+ACG-MAC Ensemble,test converged,topology_id,25,58,0.0020301598927070356,6.418994311628671
+ACG-MAC Ensemble,test converged,topology_id,39,64,0.0013326341286301613,5.199545621871948
+ACG-MAC Ensemble,test converged,topology_id,52,82,0.002606104786803083,8.389051483898628
+ACG-MAC Ensemble,test converged,topology_id,58,61,0.0007600364137868412,2.7300615154328893
+ACG-MAC Ensemble,test converged,load_regime,0,153,0.0012736620466693555,3.1782622867160373
+ACG-MAC Ensemble,test converged,load_regime,1,168,0.002030957312810989,10.432436908994402
+ACG-MAC Ensemble,test converged,load_regime,2,154,0.0032893012870441785,19.03050422668457
+ACG-MAC Ensemble,test converged,load_regime,3,130,0.003173525516803448,18.68435287475586

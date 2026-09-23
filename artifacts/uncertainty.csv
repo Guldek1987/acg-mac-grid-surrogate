@@ -1,0 +1,5 @@
+model,split,n,method,target,nominal,coverage,mean_width,pinaw
+ACG-MAC Ensemble,test converged,605,Global,Vmin,0.9,0.8330578512396695,0.0053991079330444,0.0108923930674791
+ACG-MAC Ensemble,test converged,605,Global,Loss kW,0.9,0.8842975206611571,22.937294006347656,0.0116130383685231
+ACG-MAC Ensemble,test converged,605,Proxy-regime stratified,Vmin,0.9,0.8644628099173554,0.006108204096802,0.0123229540633431
+ACG-MAC Ensemble,test converged,605,Proxy-regime stratified,Loss kW,0.9,0.9107438016528926,31.282302550639,0.0158380744926641
